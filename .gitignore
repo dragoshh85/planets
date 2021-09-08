@@ -1,2 +1,4 @@
 results/
 **/*.dat
+**/log_*
+
